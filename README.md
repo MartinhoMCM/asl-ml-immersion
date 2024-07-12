@@ -59,6 +59,8 @@ After running these commands, you can open and execute a notebook on the base "P
 ## Contributions
 Currently, only Googlers can contribute to this repo. See [CONTRIBUTING.md](https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/CONTRIBUTING.md) for more details on the contribution workflow.
 
+#Mygoal
+asl-ml-immersion/notebooks/text_models/solutions/text_generation.ipynb
 
 ## Disclaimer
 This is not an officially supported Google product. Usage of Google Cloud products will incur charges. Learn more about pricing [here](https://cloud.google.com/pricing).
